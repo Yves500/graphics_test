@@ -1,0 +1,54 @@
+2018-09-25T02:05:24.748Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-25T02:05:24.753Z - normal: checking language setting...
+2018-09-25T02:05:24.753Z - normal: Language: zh
+2018-09-25T02:05:25.228Z - success: protocol editor-framework registered
+2018-09-25T02:05:25.229Z - success: protocol app registered
+2018-09-25T02:05:25.229Z - success: protocol theme registered
+2018-09-25T02:05:25.229Z - success: protocol packages registered
+2018-09-25T02:05:25.229Z - success: protocol unpack registerred
+2018-09-25T02:05:25.229Z - success: protocol disable-commonjs registerred
+2018-09-25T02:05:25.486Z - normal: connected!
+2018-09-25T02:05:25.489Z - normal: Check project /Users/wulinlin/graphics_test
+2018-09-25T02:05:25.492Z - normal: Initializing project /Users/wulinlin/graphics_test
+2018-09-25T02:05:25.496Z - normal: Initializing Cocos2d
+2018-09-25T02:05:26.218Z - normal: Initializing Asset Database
+2018-09-25T02:05:26.252Z - success: protocol uuid registerred
+2018-09-25T02:05:26.252Z - success: protocol db registerred
+2018-09-25T02:05:26.252Z - success: protocol thumbnail registerred
+2018-09-25T02:05:26.253Z - normal: Loading editor/builtin packages
+2018-09-25T02:05:26.396Z - success: assets loaded
+2018-09-25T02:05:26.400Z - success: builder loaded
+2018-09-25T02:05:26.402Z - success: cocos-analytics loaded
+2018-09-25T02:05:26.407Z - success: console loaded
+2018-09-25T02:05:26.442Z - success: fb-instant-games loaded
+2018-09-25T02:05:26.448Z - success: hierarchy loaded
+2018-09-25T02:05:26.451Z - success: inspector loaded
+2018-09-25T02:05:26.453Z - success: keystore loaded
+2018-09-25T02:05:26.457Z - success: node-library loaded
+2018-09-25T02:05:26.459Z - success: package-asset loaded
+2018-09-25T02:05:26.460Z - success: preferences loaded
+2018-09-25T02:05:26.463Z - success: project-exporter loaded
+2018-09-25T02:05:26.478Z - success: project-importer loaded
+2018-09-25T02:05:26.481Z - success: project-settings loaded
+2018-09-25T02:05:26.487Z - success: ui-kit loaded
+2018-09-25T02:05:26.491Z - success: scene loaded
+2018-09-25T02:05:26.492Z - success: sprite-editor loaded
+2018-09-25T02:05:26.497Z - success: store loaded
+2018-09-25T02:05:26.501Z - success: timeline loaded
+2018-09-25T02:05:26.501Z - normal: Loading builtin packages
+2018-09-25T02:05:26.506Z - success: asset-db-debugger loaded
+2018-09-25T02:05:26.507Z - success: color-picker loaded
+2018-09-25T02:05:26.508Z - success: jsb-adapter loaded
+2018-09-25T02:05:26.512Z - success: package-manager loaded
+2018-09-25T02:05:26.596Z - success: qqplay-adapter loaded
+2018-09-25T02:05:26.606Z - success: sdkbox loaded
+2018-09-25T02:05:26.612Z - success: tester loaded
+2018-09-25T02:05:26.618Z - success: ui-grid loaded
+2018-09-25T02:05:26.621Z - success: ui-kit-preview-extra loaded
+2018-09-25T02:05:26.625Z - success: ui-kit-preview loaded
+2018-09-25T02:05:26.628Z - success: ui-tree loaded
+2018-09-25T02:05:26.629Z - success: weapp-adapter loaded
+2018-09-25T02:05:27.601Z - normal: Loading packages
+2018-09-25T02:05:27.607Z - normal: Watching packages
+2018-09-25T02:05:27.674Z - normal: Run Application
+2018-09-25T02:05:28.823Z - success: preview server running at http://localhost:7456
